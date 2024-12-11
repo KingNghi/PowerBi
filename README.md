@@ -29,7 +29,7 @@ Some key insights to take away from this project are:
 - While Office Supplies show consistently high order volumes, profit margins are lower compared to Technology, indicating a need for promotional strategies to enhance profitability in a competitive market.
 - The West region outperforms the East in Office Supplies, and major states like California and New York should be targeted with specific marketing efforts to capitalize on their robust sales potential, helping to drive growth across all product categories.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![Visualization, including a graph of overall trends or snapshot of a dashboard](Images/Dashboard.png)
 
 
 
@@ -42,7 +42,7 @@ Some key insights to take away from this project are:
 
 - With respect to Furniture category, the pattern was the same to the Technology, the total orders were increasing steadily in first two-and-a-half quarter before rocketing in September, followed by a decline in October and surge in November.
 
-[Visualization specific to category 1]
+![Visualization specific to category 1]
 
 
 ### Product performance:
@@ -52,7 +52,7 @@ Some key insights to take away from this project are:
 - Regarding Furniture, this category was underperforming compared to the other two categories as it was signigicantly low in profit generated, about 3% compared to total profit in the latest year, prompting more strategies launched.
 - In 2017, three of the top five profit-generating products were from the Technology category, securing the first, second, and fifth positions. The other 2 positions belonged to office supplies.
 
-[Visualization specific to category 2]
+![Visualization specific to category 2]
 
 
 ### Regional comparison:
