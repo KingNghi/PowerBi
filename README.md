@@ -61,7 +61,7 @@ Some key insights to take away from this project are:
 - In terms of products, both West and East region had the same profit generated from Technology category, around 19000$ a year. However, there was a large difference in Office Supplies category, where West region gained a profit of around 22000$ in 2017, whereas East had a half of that. In Central region, Technology was the only category that had profit whereas the profit was more balanced in the South where the profit came from both Technology and Office Supplies but still low.
 - Major states from East region were New York and Ohio with sales generated more than 40000$ a year. Meanwhile, in the West, it was California and Washington with sales yielded more than 146000$ and 65000$ respectively.
 
-[Visualization specific to category 3](Images/RegionComparison.png)
+![Visualization specific to category 3](Images/RegionComparison.png)
 
 # Recommendations:
 
