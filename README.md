@@ -8,7 +8,7 @@ Insight and recommendations are provided on the following key areas:
 - Regional comparisons: An evaluation of sales, profit and quantity by region.
 - Sales trends analysis: Evaluation of historical sales pattern, focusing on quantity, profit and sales.
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link](Dashboard)
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link](Superstore Giant Analysis)
 
 
 
