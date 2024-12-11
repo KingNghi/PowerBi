@@ -65,26 +65,10 @@ Some key insights to take away from this project are:
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the uncovered insights, the following recommendations have been provided:
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-
-
-# Assumptions and Caveats:
-
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+- Consider ramping up marketing efforts ahead of the beginning of September because that is the time most businesses start their fiscal year and children go back to school. In addition, company should also prepare promotion campaigns for November because of Black Friday or Cyber Monday.
+- Prioritize stocking and promoting products from the Technology category, as they have demonstrated the highest profitability and consistent growth.
+- Implement targeted marketing strategies to increase customer awareness and optimize the product listings for office supplies, particularly during peak purchasing months in September and November.
+- For the Furniture category, consider diversifying the product offerings or assessing customer feedback to identify potential areas for improvement.
+- Given the significant profits from the West region, especially from Technology and Office Supplies, enhance logistics and supply chain capabilities to better support this area. In contrast, consider reducing marketing spend or minimizing inventory for the Central and South regions (Office Supplies and Furniture), where performance is weaker, focusing instead on enhancing the offerings that resonate there.
