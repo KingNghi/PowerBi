@@ -14,13 +14,9 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+Initialy, there was only one table in the dataset, so right after I had cleaned the dataset, I added another table and named it Dim_date as a dimension table for date. A description of each table is as follows:
 
-[Entity Relationship Diagram here]
+![Entity Relationship Diagram here](Images/ERD.png)
 
 
 
