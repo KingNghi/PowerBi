@@ -42,7 +42,7 @@ Some key insights to take away from this project are:
 
 - With respect to Furniture category, the pattern was the same to the Technology, the total orders were increasing steadily in first two-and-a-half quarter before rocketing in September, followed by a decline in October and surge in November.
 
-![Visualization specific to category 1]
+![Visualization specific to category 1](Images/Salestrend.png)
 
 
 ### Product performance:
@@ -52,7 +52,7 @@ Some key insights to take away from this project are:
 - Regarding Furniture, this category was underperforming compared to the other two categories as it was signigicantly low in profit generated, about 3% compared to total profit in the latest year, prompting more strategies launched.
 - In 2017, three of the top five profit-generating products were from the Technology category, securing the first, second, and fifth positions. The other 2 positions belonged to office supplies.
 
-![Visualization specific to category 2]
+![Visualization specific to category 2](Images/Productperformance.png)
 
 
 ### Regional comparison:
@@ -61,22 +61,7 @@ Some key insights to take away from this project are:
 - In terms of products, both West and East region had the same profit generated from Technology category, around 19000$ a year. However, there was a large difference in Office Supplies category, where West region gained a profit of around 22000$ in 2017, whereas East had a half of that. In Central region, Technology was the only category that had profit whereas the profit was more balanced in the South where the profit came from both Technology and Office Supplies but still low.
 - Major states from East region were New York and Ohio with sales generated more than 40000$ a year. Meanwhile, in the West, it was California and Washington with sales yielded more than 146000$ and 65000$ respectively.
 
-[Visualization specific to category 3]
-
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
-
-
+[Visualization specific to category 3](Images/RegionComparison.png)
 
 # Recommendations:
 
